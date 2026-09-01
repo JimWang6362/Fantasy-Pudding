@@ -38,7 +38,6 @@
 
 * **作業系統**：Windows 10 / 11（64-bit）
 * **必要驅動**：[Npcap 封包擷取軟體](https://npcap.com/dist/npcap-1.88.exe)
-* **執行權限**：需具備系統管理員身分
 
 ---
 
